@@ -67,3 +67,5 @@ passkey.txt
 
 .vscode/
 db.sqlite3
+
+.env
